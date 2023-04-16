@@ -1,0 +1,26 @@
+{
+    "jobDataITem" : [
+      {
+        "name": "Account & Finance",
+        "description": "300 Jobs Available",
+        "icon": "/public/JobItemsData/JobsItemIcon/Rectangle 4 (1).png"
+      },
+      {
+        "name": "Creative Design",
+        "description": "100+ Jobs Available",
+        "icon": "/public/JobItemsData/JobsItemIcon/Rectangle 4 (2).png"
+      },
+      {
+        "name": "Marketing & Sales",
+        "description": "150 Jobs Available",
+        "icon": "/public/JobItemsData/JobsItemIcon/Rectangle 4 (3).png"
+      },
+      {
+        "name": "Engineering Job",
+        "description": "224 Jobs Available",
+        "icon": "/public/JobItemsData/JobsItemIcon/Group 13.png"
+      }
+    ]
+  }
+  
+
